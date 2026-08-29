@@ -59,14 +59,14 @@ users.needObject=Have to be an Object
 
 # includes/handle/handleCommand.js
 
-handleCommand.userBanned=গ্রুপে বাল পাকলামির জন্য একজন এডমিন এই গ্রুপটি ব্যান করছে। ব্যান কে অনব্যান না করা প্রযন্ত গ্রুপে বট  চলবে না বা কাজ করবে না\n অনব্যান করার জন্য  এডমিনকে গ্রুপে এড করেন  বা ইনবক্সে  মেসেজ দেন।\nhttps://m.me/khanrahulrk823
-handleCommand.threadBanned=গ্রুপে বাল পাকলামির জন্য একজন এডমিন এই গ্রুপটি ব্যান করছে। ব্যান কে অনব্যান না করা প্রযন্ত গ্রুপে বট  চলবে না বা কাজ করবে না\n অনব্যান করার জন্য  এডমিনকে গ্রুপে এড করেন  বা ইনবক্সে  মেসেজ দেন।\nhttps://m.me/khanrahulrk823
+handleCommand.userBanned=গ্রুপে বাল পাকলামির জন্য একজন এডমিন এই গ্রুপটি ব্যান করছে। ব্যান কে অনব্যান না করা প্রযন্ত গ্রুপে বট  চলবে না বা কাজ করবে না\n অনব্যান করার জন্য  এডমিনকে গ্রুপে এড করেন  বা ইনবক্সে  মেসেজ দেন।\nhttps://m.me/Khanrahulrk8234
+handleCommand.threadBanned=গ্রুপে বাল পাকলামির জন্য একজন এডমিন এই গ্রুপটি ব্যান করছে। ব্যান কে অনব্যান না করা প্রযন্ত গ্রুপে বট  চলবে না বা কাজ করবে না\n অনব্যান করার জন্য  এডমিনকে গ্রুপে এড করেন  বা ইনবক্সে  মেসেজ দেন।\nhttps://m.me/Khanrahulrk8234
 handleCommand.commandNotExist=the command you used doesn't exist in our system, try "%1".
 handleCommand.commandThreadBanned=Your thread is unable to use command "%1"
 handleCommand.commandUserBanned=You are unable to use command "%1"
-handleCommand.threadNotAllowNSFW=আপনার NSFW কমান্ড ব্যাবহারের কোন অনুমতি নেই😬😁🤣\nঅনুমতি নিতে  বস Khan Rahul RK কে নক করুন।\nমেসেজ 👇👇👇\n https://m.me/khanrahulrk823
+handleCommand.threadNotAllowNSFW=আপনার NSFW কমান্ড ব্যাবহারের কোন অনুমতি নেই😬😁🤣\nঅনুমতি নিতে  বস Khan Rahul RK কে নক করুন।\nমেসেজ 👇👇👇\n https://m.me/Khanrahulrk8234
 handleCommand.cantGetInfoThread=Can't get your thread's info, error: %1
-handleCommand.permssionNotEnough=আপনার"%1" কমান্ড ব্যবহারের কোন অনুমতি নেই😬😬😬🫢\nঅনুমতি নিতে  বস Khan Rahul RK কে নক করুন।\nমেসেজ 👇👇👇\n https://m.me/khanrahulrk823
+handleCommand.permssionNotEnough=আপনার"%1" কমান্ড ব্যবহারের কোন অনুমতি নেই😬😬😬🫢\nঅনুমতি নিতে  বস Khan Rahul RK কে নক করুন।\nমেসেজ 👇👇👇\n https://m.me/Khanrahulrk8234
 handleCommand.cantSetMessageReaction=Having some unexpected error at setMessageReaction, error: %1
 handleCommand.executeCommand=[ %1 ] Command used: %2 by user: %3 at thread: %4 | Args included: %5 | Processing time: %6ms
 handleCommand.commandError=Having some unexpected error when using command %1, error: %2
@@ -101,7 +101,7 @@ handleSchedule.exectuteError=Having some error when schedule at module %1, error
 
 # utils/index.js
 
-utils.throwError=ℹ️ [!] Ye Command Kaam Nahi Kar Raha Koi Dosra Try Karo, %1help %2 Use For More usage 😉 ℹ️
+utils.throwError=ℹ️ [!] এই Command কাজ করের না অন্য একটা Command Try করো, %1help %2 Use For More usage 😉 ℹ️
 
 # updater.js
 
